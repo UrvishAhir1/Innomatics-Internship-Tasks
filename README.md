@@ -8,6 +8,7 @@ All tasks are implemented using Python with clean, well-structured, and properly
 ## Completed Tasks
 
 -  Task – 1 Logic Building >> [Access Notebook](./Task-1-Logic-Building/Task_1_logic_building.ipynb)
+-  Task – 2 Logic Building >> [Access Notebook](./Task-2-Logic-Building/Task_2_logic_building.ipynb)
 
 
 ## Tools Used
